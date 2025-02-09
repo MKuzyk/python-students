@@ -1,2 +1,2 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+imie = input("Jak masz na imię?")
+print(f"Mam na imię {imie}!")
